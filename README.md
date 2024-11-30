@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enhancing data analysis skills through personal projects in data visualization and statistical analysis.<br><br>Seeking collaboration on open-source data analysis projects to learn and contribute alongside experienced professionals.<br><br>Exploring job opportunities and networking with data analysts and professionals.<br><br>Currently learning advanced Excel, SQL, and Python for data analysis.<br><br>Developed a Power BI dashboard analyzing hospital patient trends, including demographics, referrals, and admission patterns.<br><br>Passionate about uncovering insights in data sets and exploring innovative data visualization techniques in free time.
+Hi there! 👋 I'm an aspiring Data Analyst passionate about exploring and analyzing data to uncover meaningful insights. Currently, I'm enhancing my skills in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, and Tableau for data cleaning, analysis, and visualization. I enjoy continuously learning and improving to make data-driven decisions and deliver impactful results. Explore my repositories and feel free to connect. 🚀
 
 
 ## 🌐 Socials:
